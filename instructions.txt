@@ -1,0 +1,12 @@
+Run code for Neural Networks:
+1) open the code files in any python supporting ide or google colab and paste the code for Neural Network.
+2) Load dataset
+3) Run each cell.
+
+Run code for Random Forest and Decision Tree:
+1) Download "decisionTree.py" and "randomforest.py" files
+2) Download run.py file and paste it in collab
+3) Import "decisionTree.py" and "randomforest.py" files along with datasets
+4) Uncomment rf_execute, dt_execute run code lines
+5) And run the cell.
+
